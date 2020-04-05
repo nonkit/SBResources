@@ -1,7 +1,7 @@
 # Small Basic: Turtle Bitmap for Another Turtle Project: PNG Image
 This is a Turtle image formatted as PNG file.  This image is for Small Basic Another Turtle Project here.  My intension is to refer this image directly from Small Basic programs.  This image is made with Paint program attached in Windows.  And added transparent color with GIMP
 
-**Download**: [Turtle.png](https://github.com/nonkit/SBResources/raw/master/challenge/Challenge%20of%20the%20Month.xlsx)
+**Download**: [Turtle.png](https://github.com/nonkit/SBResources/raw/master/turtle/Turtle.png)
 
 - Downloaded: 29,223 times
 - Category: Using the Internet

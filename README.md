@@ -15,6 +15,7 @@ Following each folder contains TechNet Gallery backup related with Microsoft Sma
 - ***ppt*** - [Small Basic: GetShapes VBA: PowerPoint Macro-Enabled Presentation](ppt/README.md)
 - ***summit*** - [TechNet Wiki Summit 2015: Small Basic and TechNet: PowerPonit Presentation](summit/README.md)
 - ***turtle*** - [Small Basic: Turtle Bitmap for Another Turtle Project: PNG Image](turtle/README.md)
+- ***turtle2*** - [Small Basic: Another Turtle Project: PowerPoint Presentation](turtle2/README.md)
 - ***tutorialj*** - [Tutorial: Creative Coding with Small Basic (ja-JP)](tutorialj/README.md)
 - ***video*** - [TechNet Wiki Summit 2015: Small Basic and TechNet: Windows Media Video](video/README.md)
 - ***xamarin*** - [Xamarin Workbooks: Programming with Small Basic Objects](xamarin/README.md)

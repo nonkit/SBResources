@@ -1,7 +1,7 @@
 # Small Basic: もうひとつのタートル プロジェクトのためのタートル ビットマップ: PNG イメージ (ja-JP)
 これは PNG ファイルにフォーマットされたタートル イメージです。このイメージはこちらでの Small Basic もうひとつのタートル プロジェクトのためのものです。私の意図はこのイメージを直接 Small Basic プログラムから参照することにあります。このイメージは Windows に添付されているペイント プログラムによって作成しました。そして GIMP で透明の色を付加しています。
 
-**ダウンロード**: [Turtle.png](https://github.com/nonkit/SBResources/raw/master/challenge/Challenge%20of%20the%20Month.xlsx)
+**ダウンロード**: [Turtle.png](https://github.com/nonkit/SBResources/raw/master/turtle/Turtle.png)
 
 - ダウンロード済み: 29,223 回
 - カテゴリ: インターネットの使用
