@@ -17,8 +17,8 @@ This Excel workbook contains a table of all past Challenge of the Month in Small
 
 Sheet All is the original table which has items challenge title, posted date, posted by, and URL to the challenge.
 
-Sheet HTML is a sample to create HTML table tag from Excel sheet.  Generated HTML is actually used in a TechNet Wiki article:
-Small Basic: Challenge of the Month
+Sheet HTML is a sample to create HTML table tag from Excel sheet.  Generated HTML is actually used in a TechNet Wiki article:<br>
+Small Basic: Challenge of the Month<br>
 http://social.technet.microsoft.com/wiki/contents/articles/24745.small-basic-challenge-of-the-month.aspx
 
 Other sheets contain the detail of each challenge.  I've not created the detail sheets for September 2012 and after that.  But table in sheet All contains all challenges until June 2014.
