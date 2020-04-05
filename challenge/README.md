@@ -1,5 +1,5 @@
 # Small Basic: Challenge of the Month: Excel Workbook
-This is an Excel workbook which contaiins a table of all past Small Basic Challenge of the Month. Challenge of the Month is started in 2011 to present challenges for Small Basic programmers. Microsoft Small Basic is a simple progamming language for people who learn programming.
+This is an Excel workbook which contains a table of all past Small Basic Challenge of the Month. Challenge of the Month is started in 2011 to present challenges for Small Basic programmers. Microsoft Small Basic is a simple progamming language for people who learn programming.
 
 ***Download***: [Challenge of the Month.xlsx](https://github.com/nonkit/SBResources/raw/master/challenge/Challenge%20of%20the%20Month.xlsx)
 
