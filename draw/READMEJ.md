@@ -3,7 +3,7 @@
 
 **ダウンロード**: [Drawing Shapes Notebook 0.21.pdf](https://github.com/nonkit/SBResources/raw/master/draw/Drawing%20Shapes%20Notebook%200.21.pdf)
 
-- ダウンロード済み: 91 times
+- ダウンロード済み: 91 回
 - カテゴリ: アプリケーション
 - サブカテゴリ: クライアント アプリケーション
 - 翻訳: [English](README.md)
