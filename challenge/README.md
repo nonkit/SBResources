@@ -22,7 +22,6 @@ Small Basic: Challenge of the Month<br>
 http://social.technet.microsoft.com/wiki/contents/articles/24745.small-basic-challenge-of-the-month.aspx
 
 Other sheets contain the detail of each challenge.  I've not created the detail sheets for September 2012 and after that.  But table in sheet All contains all challenges until June 2014.
-Uploaded file archive.zip contains following MPEG-4 audio files.
 
 ![Challenge of the Month.xlsx](ChallengeOfTheMonth.png)
 
