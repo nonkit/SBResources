@@ -1,14 +1,14 @@
 # Created .m4a Audio Files
 Uploaded file archive.zip contains following MPEG-4 audio files. bell.m4a boo.m4a click.m4a cowbell.m4a synthtom.m4a tada.m4a Thise audio files are made with CASIO MT-240, Fujitsu Lifebook AH42/M and Windows Sound Recorder installed in Windows 8.1.  Purpose for these audio file
 
-***Download***: [archive.zip](https://github.com/nonkit/SBResources/raw/master/audio/archive.zip)
+**Download**: [archive.zip](https://github.com/nonkit/SBResources/raw/master/audio/archive.zip)
 
 - Downloaded: 5,206 times
 - Category: Using the Internet
 - Sub-category: Downloading files
 - Tags: ZIP Archive, Small Basic
 - Updated: 11/21/2015
-- License: MIT
+- License: [MIT](/LICENSE)
 
 ## Description
 Attachments: [bell.m4a](https://github.com/nonkit/SBResources/raw/master/audio/bell.m4a) | [boo.m4a](https://github.com/nonkit/SBResources/raw/master/audio/boo.m4a) | [click.m4a](https://github.com/nonkit/SBResources/raw/master/audio/click.m4a) | [cowbell.m4a](https://github.com/nonkit/SBResources/raw/master/audio/cowbell.m4a) | [synthtom.m4a](https://github.com/nonkit/SBResources/raw/master/audio/synthtom.m4a) | [tada.m4a](https://github.com/nonkit/SBResources/raw/master/audio/tada.m4a)
@@ -39,7 +39,7 @@ I wrote a blog post about how to create these kind of audio files:
 
 A sample Small Basic program to play these audio files is [VTQ526](http://smallbasic.com/program/?VTQ526).
 
-***Verified on the following platforms***
+**Verified on the following platforms**
 
 | Platform | Verified |
 | --- | --- |
