@@ -1,7 +1,7 @@
 # Small Basic: Another Turtle Project: PowerPoint Presentation
 This is a PowerPoint deck for Small Basic Another Turtle Project.  Another Turtle Project is described at here in Small Basic Forum.  I'd like to create many Small Basic programs with Turtle object of Microsoft Small Basic program language.  I will update this deck especially
 
-**Download**: [Another Turtle.pptx](https://github.com/nonkit/SBResources/raw/master/turtle2/Challenge%20of%20the%20Month.xlsx)
+**Download**: [Another Turtle.pptx](https://github.com/nonkit/SBResources/raw/master/turtle2/Another%20Turtle.pptx)
 
 - Downloaded: 901 times
 - Category: Office
