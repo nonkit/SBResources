@@ -1,6 +1,10 @@
 # Small Basic Resources
 Small Basic Resources (backup from TechNet Gallery)
 
+## Backup and Update Plan
+At first, I will backup following documents from [TechNet Gallery](https://gallery.technet.microsoft.com/) to here.  TechNet Gallery will retire in the first half of 2020.  After that, I will update all links to TechNet Gallery in these documents.
+
+## Contents
 Following each folder contains TechNet Gallery backup related with Microsoft Small Basic programming language.
 - ***audio*** - [Created .m4a Audio Files](audio/README.md)
 - ***challenge*** - [Small Basic: Challenge of the Month: Excel Workbook](challenge/README.md)
