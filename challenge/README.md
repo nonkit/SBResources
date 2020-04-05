@@ -24,7 +24,7 @@ http://social.technet.microsoft.com/wiki/contents/articles/24745.small-basic-cha
 Other sheets contain the detail of each challenge.  I've not created the detail sheets for September 2012 and after that.  But table in sheet All contains all challenges until June 2014.
 Uploaded file archive.zip contains following MPEG-4 audio files.
 
-!(Challenge of the Month.xlsx)[/challenge/ChallengeOfTheMonth.png]
+![Challenge of the Month.xlsx](ChallengeOfTheMonth.png)
 
 ### Updated on November 14, 2015
 
@@ -36,7 +36,7 @@ Uploaded file archive.zip contains following MPEG-4 audio files.
 - Corrected a link in sheet 'All'.
 - Added challenges text in sheet '2014' and '2013'.  So all texts in the Challenge of the Month are included in this workbook.  You can use \[Editing\] \[Find and Replace\] \[Options\] \[Within Workbook\] to find keyword through this workbook.
 
-!(Find and Replace)[/challenge/ChallengeOfTheMonthFind.png]
+![Find and Replace](ChallengeOfTheMonthFind.png)
 
 ### Updated on April 3, 2016
 
