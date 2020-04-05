@@ -9,7 +9,7 @@ Uploaded file archive.zip contains following MPEG-4 audio files. bell.m4a boo.m4
 - License: MIT
 
 ## Description
-Attachments: bell.m4a | boo.m4a | click.m4a | cowbell.m4a | synthtom.m4a | tada.m4a
+Attachments: [bell.m4a](bell.m4a) | [boo.m4a](boo.m4a) | [click.m4a](click.m4a) | [cowbell.m4a](cowbell.m4a) | [synthtom.m4a](synthtom.m4a) | [tada.m4a](tada.m4a)
 
 Uploaded file archive.zip contains following MPEG-4 audio files.
 1. bell.m4a
@@ -33,7 +33,7 @@ To access these files, you can use following URLs.
 
 I wrote a blog post about how to create these kind of audio files:
 
-How do you get a sound for your program?
+[How do you get a sound for your program?](https://techcommunity.microsoft.com/t5/small-basic-blog/how-do-you-get-a-sound-for-your-program/ba-p/336882)
 
 A sample Small Basic program to play these audio files is [VTQ526](http://smallbasic.com/program/?VTQ526).
 
