@@ -1,7 +1,7 @@
 # Small Basic: Challenge of the Month: Excel Workbook
 This is an Excel workbook which contains a table of all past Small Basic Challenge of the Month. Challenge of the Month is started in 2011 to present challenges for Small Basic programmers. Microsoft Small Basic is a simple progamming language for people who learn programming.
 
-***Download***: [Challenge of the Month.xlsx](https://github.com/nonkit/SBResources/raw/master/challenge/Challenge%20of%20the%20Month.xlsx)
+**Download**: [Challenge of the Month.xlsx](https://github.com/nonkit/SBResources/raw/master/challenge/Challenge%20of%20the%20Month.xlsx)
 
 - Downloaded: 3,103 times
 - Category: Office
@@ -67,7 +67,7 @@ Uploaded file archive.zip contains following MPEG-4 audio files.
 
 This workbook has been created by Nonki Takahashi who is a member of Small Basic Communication Counsil.
 
-***Verified on the following platforms***
+**Verified on the following platforms**
 
 | Platform | Verified |
 | --- | --- |
