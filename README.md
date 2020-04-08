@@ -12,7 +12,7 @@ Following each folder contains TechNet Gallery backup related with Microsoft Sma
 - ***db*** - [Small Basic: Sample Output of Program Database](db/README.md) (TBD)
 - ***draw*** - [Drawing Shapes A-Z Notebook for Microsoft Small Basic](draw/README.md)
 - ***duck*** - [Small Basic: DuckShoot Images: PowerPoint Macro-Enabled Presentation](duck/README.md)
-- ***excel*** - [Small Basic: GetShapes VBA: Excel Macro-Enabled Workbook](excel/README.md) (TBD)
+- ***excel*** - [Small Basic: GetShapes VBA: Excel Macro-Enabled Workbook](excel/README.md)
 - ***game*** - [Small Basic Game: Platform Game Sample](game/README.md) (TBD)
 - ***image*** - [Small Basic: Images for Small Basic: PowerPoint Macro-Enabled Presentation](image/README.md)
 - ***ninja*** - [Images for TechNet Guru Iconography: PowerPoint Presentation](ninja/README.md) (TBD)
