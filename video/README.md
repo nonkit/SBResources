@@ -17,7 +17,9 @@ This 31-minute video is recorded in International TechNet Wiki Summit 2015 at se
 This 31-minute video is recorded in International TechNet Wiki Summit 2015 at session 4 (19:15-20:00) on DAY 2 (March 18, 2015 GMT).
 # Small Basic and TechNet
 DAY 2 - at 7:15 PM on March 18, 2015 (GMT)
+
 **Speaker:** Nonki Takahashi 
+
 **Agenda:** 
 - Small Basic
 - Small Basic Community
