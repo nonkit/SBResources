@@ -2,7 +2,7 @@
 
 This 31-minute video is recorded in International TechNet Wiki Summit 2015 at session 4 (19:15-20:00) on DAY 2 (March 18, 2015 GMT).Small Basic and TechNetDAY 2 - at 7:15 PM on March 18, 2015 (GMT)Speaker: Nonki Takahashi Agenda:  Small Basic Small Basic Community TechNet Wiki
 
-**Download**: [TNWiki Summit 15 DAY2 Small Basic and TechNet.wmv](https://github.com/nonkit/SBResources/raw/master/draw/TNWiki%20Summit%2015%20DAY2%20Small%20Basic%20and%20TechNet.wmv
+**Download**: [TNWiki Summit 15 DAY2 Small Basic and TechNet.wmv](https://github.com/nonkit/SBResources/raw/master/video/TNWiki%20Summit%2015%20DAY2%20Small%20Basic%20and%20TechNet.wmv
 )
 
 - Downloaded: 126 times
