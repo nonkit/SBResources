@@ -1,5 +1,5 @@
 # Drawing Shapes A-Z Notebook for Microsoft Small Basic
-This notebook describes how to draw a lot of shapes with Microsoft Small Basic Shapes object (rectangle, ellipse, triangle and line).  Drawn shapes will be moved, zoomed, rotated or flipped.  To flip picture, a triangle is used as an isosceles triangle.The current versoin (v0.2
+This notebook describes how to draw a lot of shapes with Microsoft Small Basic Shapes object (rectangle, ellipse, triangle and line).  Drawn shapes will be moved, zoomed, rotated or flipped.  To flip picture, a triangle is used as an isosceles triangle.The current version (v0.2
 
 **Download**: [Drawing Shapes Notebook 0.21.pdf](https://github.com/nonkit/SBResources/raw/master/draw/Drawing%20Shapes%20Notebook%200.21.pdf)
 
@@ -15,7 +15,7 @@ This notebook describes how to draw a lot of shapes with Microsoft Small Basic S
 
 This notebook describes how to draw a lot of shapes with Microsoft Small Basic Shapes object (rectangle, ellipse, triangle and line).  Drawn shapes will be moved, zoomed, rotated or flipped.  To flip picture, a triangle is used as an isosceles triangle.
 
-The current versoin (v0.21) includes following shapes.
+The current version (v0.21) includes following shapes.
 
 A. Connecting Circles<br>
 B. Round Triangle<br>
