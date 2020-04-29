@@ -11,7 +11,7 @@ The plan follows steps below.
 Following each folder contains TechNet Gallery backup related with Microsoft Small Basic programming language.
 - ***audio*** - [Created .m4a Audio Files](audio/README.md)
 - ***challenge*** - [Small Basic: Challenge of the Month: Excel Workbook](challenge/README.md)
-- ***csharp*** - [Xamarin Workbooks: Learn C# for Small Basic Users](csharp/README.md) (TBD)
+- ***csharp*** - [Xamarin Workbooks: Learn C# for Small Basic Users](csharp/README.md)
 - ***db*** - [Small Basic: Sample Output of Program Database](db/README.md)
 - ***draw*** - [Drawing Shapes A-Z Notebook for Microsoft Small Basic](draw/README.md)
 - ***duck*** - [Small Basic: DuckShoot Images: PowerPoint Macro-Enabled Presentation](duck/README.md)
