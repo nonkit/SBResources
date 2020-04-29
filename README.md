@@ -2,14 +2,17 @@
 Small Basic Resources (backup from TechNet Gallery)
 
 ## Backup and Update Plan
-At first, I will backup following documents from [TechNet Gallery](https://gallery.technet.microsoft.com/) to here.  TechNet Gallery will retire in the first half of 2020.  After that, I will update all links to TechNet Gallery in these documents.
+The plan follows steps below.
+1. At first, I will backup following documents from [TechNet Gallery](https://gallery.technet.microsoft.com/) to here.
+2. TechNet Gallery will retire in the first half of 2020.
+3. After that, I will update all links to TechNet Gallery in these documents.
 
 ## Contents
 Following each folder contains TechNet Gallery backup related with Microsoft Small Basic programming language.
 - ***audio*** - [Created .m4a Audio Files](audio/README.md)
 - ***challenge*** - [Small Basic: Challenge of the Month: Excel Workbook](challenge/README.md)
 - ***csharp*** - [Xamarin Workbooks: Learn C# for Small Basic Users](csharp/README.md) (TBD)
-- ***db*** - [Small Basic: Sample Output of Program Database](db/README.md) (TBD)
+- ***db*** - [Small Basic: Sample Output of Program Database](db/README.md)
 - ***draw*** - [Drawing Shapes A-Z Notebook for Microsoft Small Basic](draw/README.md)
 - ***duck*** - [Small Basic: DuckShoot Images: PowerPoint Macro-Enabled Presentation](duck/README.md)
 - ***excel*** - [Small Basic: GetShapes VBA: Excel Macro-Enabled Workbook](excel/README.md)

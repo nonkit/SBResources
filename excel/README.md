@@ -1,7 +1,7 @@
 # Small Basic: GetShapes VBA:  Excel Macro-Enabled Workbook
 This worksheet has a macro GetShapes to create a code including shape array for Microsoft Small Basic programming language. To run the macro GetShape, push \[GetShaps\] button.  So, you can get a code as a textbox text.This array is treated in Shapes editor.  But there are two virtu
 
-**Download**: [GetShapes VBA.xlsm](https://github.com/nonkit/SBResources/raw/master/excel/GetShapes%20VBA.xlsx)
+**Download**: [GetShapes VBA.xlsm](https://github.com/nonkit/SBResources/raw/master/excel/GetShapes%20VBA.xlsm)
 
 - Downloaded: 524 times
 - Category: Office
