@@ -3,7 +3,7 @@ Small Basic Resources (backup from TechNet Gallery)
 
 ## Backup and Update Plan
 The plan follows steps below.
-1. At first, I will backup following documents from [TechNet Gallery](https://gallery.technet.microsoft.com/) to here.
+1. At first, I will backup following documents from [TechNet Gallery](https://gallery.technet.microsoft.com/) to here. (Done)
 2. TechNet Gallery will retire in the first half of 2020.
 3. After that, I will update all links to TechNet Gallery in these documents.
 
@@ -25,4 +25,4 @@ Following each folder contains TechNet Gallery backup related with Microsoft Sma
 - ***turtle2*** - [Small Basic: Another Turtle Project: PowerPoint Presentation](turtle2/README.md)
 - ***tutorialj*** - [Tutorial: Creative Coding with Small Basic (ja-JP)](tutorialj/README.md)
 - ***video*** - [TechNet Wiki Summit 2015: Small Basic and TechNet: Windows Media Video](video/README.md)
-- ***xamarin*** - [Xamarin Workbooks: Programming with Small Basic Objects](xamarin/README.md) (TBD)
+- ***xamarin*** - [Xamarin Workbooks: Programming with Small Basic Objects](xamarin/README.md)
