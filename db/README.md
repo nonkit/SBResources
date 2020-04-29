@@ -26,7 +26,7 @@ I'm making a Program Database in Small Basic programming language.  The article 
 
 At this point, this sheet contains 474 programs on my OneDrive.
 
-![Program DB Worksheet](ProgramDBWroksheet.png)
+![Program DB Worksheet](ProgramDBWorksheet.png)
 
 **Verified on the following platforms**
 
