@@ -6,7 +6,7 @@
 - ダウンロード済み: 59 回
 - カテゴリ: アプリケーション
 - サブカテゴリ: クライアント アプリケーション
-- 翻訳: [English](README)
+- 翻訳: [English](README.md)
 - タグ: C#, Small Basic, Xamarin Workbooks
 - 最終更新日: 2017/09/27
 - ライセンス: [MIT](/LICENSE)
