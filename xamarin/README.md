@@ -28,6 +28,7 @@ Some workbooks are available for both Mac and Windows.  Some workbooks are avail
 5. Open unzipped workbook folder.
 
 ## Availability
+
 | # | Object | Mac | Windows |
 | --- | --- | --- | --- |
 | 1 | Array | ✔ | ✔ |
